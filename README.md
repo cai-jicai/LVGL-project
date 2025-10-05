@@ -1,4 +1,4 @@
-#LVGL8.2实战项目
+#LVGL8.2实战与仿真
 
 学习资料
 https://www.freecodecamp.org/chinese/news/5-ways-to-use-linux-on-a-windows-machine/
@@ -6,6 +6,10 @@ https://no-chicken.com/content/FryPi/5.LVGL%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/
 https://blog.csdn.net/weixin_49337111/article/details/136536375
 https://lvgl.100ask.net/master/details/integration/ide/pc-simulator.html
 
+####Project Files
+lvgl_template_v8.3_demo	--仿真demo
+lvgl_bms_v8.3				--项目仿真
+lvgl_stm32f103zet6_demo    --基于STM32的LVGL项目
 
 ####Project Introduction：
 本项目有一个基于VS Code的LVGL仿真，以及实际应用在嵌入式项目上的成品
@@ -14,7 +18,7 @@ https://lvgl.100ask.net/master/details/integration/ide/pc-simulator.html
 C语言、仿真平台VS Code、keil
 
 ####software：
-Windows、
+Windows
 
 ####hardware（文件夹中硬件资料支持嘉立创与AD，内容一样）：
 主控板：STM32F103ZET6核心板
